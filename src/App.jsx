@@ -7,7 +7,9 @@ function App() {
 
   return(
     <>
+    <Menu/>
     <Outlet/>
+    <Rodape/>
     </>
   )
 }
